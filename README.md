@@ -30,6 +30,6 @@
 <img src="images/desktop-2.png" alt="Asperula" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
 
 <h2 style="color:#2ecc71;">İletişim</h2>
-<p>Bu projeyle ilgili detaylar veya geri bildirim için <a href="mailto:bugrabatuhanbasar@gmail.com" style="color:#c0392b; text-decoration: none;">buradan</a> bana ulaşabilirsiniz.</p>
+<p>Bu projeyle ilgili detaylar veya geri bildirim için <a href="mailto:treebsoftware@gmail.com" style="color:#c0392b; text-decoration: none;">buradan</a> bana ulaşabilirsiniz.</p>
 
 <p><em>Bu proje, Asperula Cafe için özel olarak tasarlanmış ve cafe işletmelerinin ihtiyaçlarına uygun olarak geliştirilmiştir.</em></p>
