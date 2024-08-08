@@ -28,6 +28,26 @@
 <img src="images/desktop.png" alt="Asperula" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%;">
 <!-- Görsel 2 -->
 <img src="images/desktop-2.png" alt="Asperula" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
+<img src="images/desktop-3.png" alt="Asperula" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
+<img src="images/desktop-4.png" alt="Asperula" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
+<img src="images/desktop-5.png" alt="Asperula" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
+<img src="images/desktop-6.png" alt="Asperula" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
+<img src="images/desktop-7.png" alt="Asperula" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
+<img src="images/desktop-8.png" alt="Asperula" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
+<img src="images/desktop-9.png" alt="Asperula" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
+<img src="images/desktop-10.png" alt="Asperula" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
+<img src="images/desktop-11.png" alt="Asperula" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
+<img src="images/desktop-12.png" alt="Asperula" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
+<img src="images/desktop-13.png" alt="Asperula" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
+<img src="images/desktop-14.png" alt="Asperula" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
+<img src="images/desktop-15.png" alt="Asperula" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
+<img src="images/desktop-16.png" alt="Asperula" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
+<img src="images/desktop-17.png" alt="Asperula" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
+<img src="images/desktop-18.png" alt="Asperula" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
+<img src="images/desktop-19.png" alt="Asperula" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
+<img src="images/desktop-20.png" alt="Asperula" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
+<img src="images/desktop-21.png" alt="Asperula" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
+
 
 <h2 style="color:#2ecc71;">İletişim</h2>
 <p>Bu projeyle ilgili detaylar veya geri bildirim için <a href="mailto:treebsoftware@gmail.com" style="color:#c0392b; text-decoration: none;">buradan</a> bana ulaşabilirsiniz.</p>
